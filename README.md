@@ -7,20 +7,18 @@
 Dự án bao gồm 10 dashboard tương tác, hỗ trợ nhà quản lý đưa ra quyết định dựa trên dữ liệu nhằm nâng cao hiệu suất lao động và tối ưu nguồn lực.
 
 🎯 Mục Tiêu Kinh Doanh
-
 Dự án được xây dựng nhằm trả lời các câu hỏi:
-
 Nhân viên và bộ phận nào đang có hiệu suất làm việc cao nhất?
 Đào tạo có thực sự giúp cải thiện năng suất lao động?
 Nguồn lực đang được phân bổ hiệu quả hay chưa?
 Những cửa hàng nào có nguy cơ suy giảm năng suất?
 Các yếu tố nào ảnh hưởng mạnh nhất đến hiệu suất làm việc?
 Doanh nghiệp có thể tối ưu lao động như thế nào để giảm chi phí và tăng hiệu quả?
+
 📊 Các Dashboard Trong Dự Án
+
 1️⃣ Executive Overview
-
 Dashboard tổng quan dành cho ban lãnh đạo.
-
 KPI chính
 Tổng số nhân viên
 Workforce Productivity Index
@@ -31,10 +29,9 @@ Giá trị mang lại
 Theo dõi tình hình nhân sự toàn doanh nghiệp
 Đánh giá xu hướng năng suất theo thời gian
 Xác định bộ phận hoạt động hiệu quả nhất
+
 2️⃣ Workforce Productivity Analysis
-
 Phân tích chi tiết năng suất lao động.
-
 Nội dung chính
 Xếp hạng năng suất theo phòng ban
 Xếp hạng theo vị trí công việc
@@ -45,10 +42,9 @@ Câu hỏi giải quyết
 Bộ phận nào tạo ra năng suất cao nhất?
 Vai trò công việc nào đóng góp nhiều nhất?
 Mức độ gắn kết có ảnh hưởng đến hiệu suất hay không?
+
 3️⃣ Training Impact Analysis
-
 Đánh giá hiệu quả chương trình đào tạo.
-
 KPI chính
 Tổng giờ đào tạo
 Giờ đào tạo trung bình
@@ -58,10 +54,9 @@ Giá trị mang lại
 Đo lường ROI của hoạt động đào tạo
 Xác định bộ phận hưởng lợi nhiều nhất từ đào tạo
 Hỗ trợ xây dựng kế hoạch phát triển nhân sự
+
 4️⃣ Workforce Allocation & Resource Utilization
-
 Phân tích phân bổ nguồn lực và mức độ sử dụng lao động.
-
 KPI chính
 Resource Utilization Rate
 Overtime Hours
@@ -71,10 +66,9 @@ Giá trị mang lại
 Phát hiện tình trạng quá tải nhân sự
 Kiểm soát làm thêm giờ
 Tối ưu hóa việc phân công nhân viên
+
 5️⃣ Store Efficiency & Business Performance
-
 Đánh giá hiệu quả hoạt động của cửa hàng.
-
 KPI chính
 Store Efficiency Score
 Sales Achievement Rate
@@ -84,10 +78,9 @@ Giá trị mang lại
 So sánh hiệu suất giữa các bộ phận
 Đánh giá tác động của nhân sự đến kết quả kinh doanh
 Xác định cửa hàng hoạt động hiệu quả nhất
+
 6️⃣ Operational Analytics
-
 Dashboard theo dõi vận hành.
-
 Nội dung chính
 Xu hướng năng suất theo tháng
 Năng suất theo phòng ban
@@ -96,10 +89,9 @@ Performance Rating vs Productivity
 Giá trị mang lại
 Theo dõi hiệu quả vận hành theo thời gian thực
 Hỗ trợ quản lý cấp trung đưa ra quyết định nhanh chóng
+
 7️⃣ Labor Optimization
-
 Dashboard tối ưu hóa lao động.
-
 KPI chính
 Labor Optimization Score
 Workforce Efficiency Ratio
@@ -108,10 +100,9 @@ Absenteeism Rate
 Giá trị mang lại
 Xác định các yếu tố làm giảm năng suất
 Đề xuất phương án sử dụng lao động hiệu quả hơn
+
 8️⃣ Explainable AI Dashboard
-
 Ứng dụng Machine Learning để dự báo năng suất lao động.
-
 Công nghệ sử dụng
 XGBoost
 SHAP Explainability
@@ -123,15 +114,14 @@ Cảnh báo sớm các cửa hàng có nguy cơ suy giảm hiệu suất
 Giá trị mang lại
 Chủ động phòng ngừa rủi ro
 Hỗ trợ ra quyết định dựa trên AI
+
 9️⃣ What-if Analysis – Tác Động Của Đào Tạo
-
 Cho phép mô phỏng các kịch bản thay đổi số giờ đào tạo.
-
 Mục tiêu
 Ước lượng mức tăng năng suất
 Đánh giá hiệu quả đầu tư đào tạo trước khi triển khai
-🔟 What-if Analysis – Tác Động Của Nhân Sự
 
+🔟 What-if Analysis – Tác Động Của Nhân Sự
 Cho phép mô phỏng thay đổi quy mô nhân sự.
 
 Mục tiêu
@@ -181,12 +171,12 @@ Power Query (M)
 Python
 XGBoost
 SHAP
-👨‍💻 Tác Giả
 
-[Tên của bạn]
+👨‍💻 Tác Giả
+Bùi Thị Kiều My
+Võ Thị Lộc
+Nguyễn Thị Nhật Mỹ
+Trần Nguyễn Minh Tài
 
 Data Analyst | Business Intelligence Analyst | Power BI Developer
 
-LinkedIn: [Link của bạn]
-
-GitHub: [Link GitHub]
