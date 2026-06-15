@@ -1,9 +1,8 @@
 # Dashboard-Resource-Human---DA18
 📊 Dashboard Quản Trị Nguồn Nhân Lực & Tối Ưu Hiệu Suất Lao Động
+
 📌 Tổng Quan Dự Án
-
 Đây là dự án xây dựng hệ thống Workforce Analytics Dashboard bằng Power BI, giúp doanh nghiệp theo dõi, phân tích và tối ưu hiệu quả sử dụng nguồn nhân lực thông qua các chỉ số về năng suất, đào tạo, phân bổ nhân sự, hiệu quả vận hành và dự báo rủi ro.
-
 Dự án bao gồm 10 dashboard tương tác, hỗ trợ nhà quản lý đưa ra quyết định dựa trên dữ liệu nhằm nâng cao hiệu suất lao động và tối ưu nguồn lực.
 
 🎯 Mục Tiêu Kinh Doanh
