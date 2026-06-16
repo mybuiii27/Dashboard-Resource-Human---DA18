@@ -129,42 +129,59 @@ Hỗ trợ lập kế hoạch nguồn lực
 
 🛠️ Kỹ Thuật Sử Dụng
 Power BI
+
 Data Modeling (Star Schema)
+
 DAX Measures
+
 Time Intelligence
+
 What-if Parameters
+
 Drill Through
+
 Dynamic Ranking
+
 KPI Dashboard
+
 Conditional Formatting
+
 Bookmark Navigation
+
 Power Query
+
 Data Cleaning
+
 Data Transformation
+
 Feature Engineering
+
 Machine Learning
+
 XGBoost
+
 SHAP Explainability
+
 Predictive Analytics
 
 🗂️ Mô Hình Dữ Liệu
 Fact Tables
 Fact_Workforce
-Fact_Training
-Fact_Performance
-Fact_Store_Performance
 Dimension Tables
 Dim_Employee
 Dim_Store
-Dim_Department
-Dim_JobRole
+Dim_Business_Outcomes
 Dim_Date
 
 📈 Kết Quả Nổi Bật
 Bộ phận Store Operations có năng suất cao nhất.
+
 Đào tạo có mối tương quan tích cực với năng suất lao động.
+
 Overtime tăng làm gia tăng nguy cơ vắng mặt.
+
 Đánh giá của quản lý là yếu tố ảnh hưởng lớn nhất đến năng suất.
+
 Hệ thống AI có khả năng phát hiện sớm các cửa hàng có nguy cơ suy giảm hiệu suất.
 
 🚀 Công Cụ Sử Dụng
