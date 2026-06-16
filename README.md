@@ -75,7 +75,6 @@ Phân tích hiệu quả chương trình đào tạo.
 * Training Hours
 * Productivity Gain
 * Performance Rating
-* Training ROI
 
 ---
 
