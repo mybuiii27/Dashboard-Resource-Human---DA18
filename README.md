@@ -126,6 +126,7 @@ Cho phép mô phỏng thay đổi quy mô nhân sự.
 Mục tiêu
 Đánh giá ảnh hưởng của việc tăng/giảm nhân sự
 Hỗ trợ lập kế hoạch nguồn lực
+
 🛠️ Kỹ Thuật Sử Dụng
 Power BI
 Data Modeling (Star Schema)
@@ -145,6 +146,7 @@ Machine Learning
 XGBoost
 SHAP Explainability
 Predictive Analytics
+
 🗂️ Mô Hình Dữ Liệu
 Fact Tables
 Fact_Workforce
@@ -157,12 +159,14 @@ Dim_Store
 Dim_Department
 Dim_JobRole
 Dim_Date
+
 📈 Kết Quả Nổi Bật
 Bộ phận Store Operations có năng suất cao nhất.
 Đào tạo có mối tương quan tích cực với năng suất lao động.
 Overtime tăng làm gia tăng nguy cơ vắng mặt.
 Đánh giá của quản lý là yếu tố ảnh hưởng lớn nhất đến năng suất.
 Hệ thống AI có khả năng phát hiện sớm các cửa hàng có nguy cơ suy giảm hiệu suất.
+
 🚀 Công Cụ Sử Dụng
 Power BI Desktop
 DAX
