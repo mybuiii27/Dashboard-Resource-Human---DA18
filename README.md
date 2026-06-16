@@ -178,4 +178,5 @@ Nguyễn Thị Nhật Mỹ
 Trần Nguyễn Minh Tài
 
 Data Analyst | Business Intelligence Analyst | Power BI Developer
+
 Khoa Công nghệ Thông tin – Trường Đại học Nha Trang
